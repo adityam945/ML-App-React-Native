@@ -1,4 +1,6 @@
 # ML-App-React-Native
+# Run npm i or npm install
+# npm start to start project
 ML-App
 Create Using React-Native
 Contents-
