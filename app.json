@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "ML-Projects",
+    "slug": "new_proj",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/circle_logo.png",
+    "splash": {
+      "image": "./assets/Opening.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.adityam945.ML_App"
+    },
+    "description": "ML-Projects(Linear Regn and KNN)"
+  }
+}
